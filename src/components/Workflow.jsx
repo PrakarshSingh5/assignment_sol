@@ -13,7 +13,7 @@ function Workflow() {
                 <div>
                   <img
                     class="course-thumbnail"
-                    src='src/assets/2.j.jpg'
+                    src='https://online.sbu.edu/sites/default/files/field/image/shutterstock_430087837.jpg'
                     alt="Course Thumbnail" />
                 </div>
                 <div >
